@@ -6,8 +6,16 @@ This is a simple plugin JavaScript plugin, similar to ``AddThis`` and ``ShareThi
 
 This package is compatible with [StandardJS](https://standardjs.com/) and [LibreJS](https://www.gnu.org/software/librejs).
 
-
 ![Screenshot](assets/images/screenshot.png)
+
+Support
+
+- diaspora\*
+- Friendica
+- GNU Social
+- Hubzilla
+- Mastodon
+- Socialhome
 
 ## Usage
 
@@ -24,7 +32,7 @@ Use this example
     <!-- Buttons -->
     <div id="siseSB"></div>
     <!-- CDN -->
-    <script src="https://notabug.org/sepbit/sise/raw/1.0.0/lib/sise.js"></script>
+    <script src="https://notabug.org/sepbit/sise/raw/1.0.1/lib/sise.js"></script>
   </body>
 </html>
 ```
