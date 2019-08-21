@@ -32,7 +32,7 @@ Use this example
     <!-- Buttons -->
     <div id="siseSB"></div>
     <!-- CDN -->
-    <script src="https://notabug.org/sepbit/sise/raw/1.0.1/lib/sise.js"></script>
+    <script src="https://notabug.org/sepbit/sise/raw/master/lib/sise.js"></script>
   </body>
 </html>
 ```
