@@ -1,0 +1,45 @@
+{
+    "name": "@sepbit/sise",
+    "version": "1.0.3",
+    "description": "This is a simple plugin JavaScript plugin, similar to ``AddThis`` and ``ShareThis`` plugins for distributed social networks.",
+    "keywords": [
+        "SEPBIT",
+        "Shared",
+        "Fediverse",
+        "Federation",
+        "diaspora*",
+        "Friendica",
+        "GNU Social",
+        "Hubzilla",
+        "Mastodon",
+        "Socialhome"
+    ],
+    "homepage": "https://notabug.org/sepbit/sise",
+    "bugs": {
+        "email": "contato@sepbit.com",
+        "url": "https://notabug.org/sepbit/sise/issues"
+    },
+    "license": "GPL-3.0-or-later",
+    "author": [
+        {
+            "name": "Vitor Guia",
+            "email": "contato@vitor.guia.nom.br",
+            "url": "https://vitor.guia.nom.br"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://notabug.org/sepbit/sise.git"
+    },
+    "scripts": {
+        "fix-style": "standard --fix 'lib/*.js''",
+        "check-style": "standard 'lib/*.js'"
+    },
+    "devDependencies": {
+        "jsdoc": "^3.6",
+        "standard": "^14.3"
+    },
+    "engines": {
+        "node": "^10.15"
+    }
+}
