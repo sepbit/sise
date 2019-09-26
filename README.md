@@ -31,8 +31,8 @@ Use this example
   <body>
     <!-- Buttons -->
     <div id="siseSB"></div>
-    <!-- Raw -->
-    <script src="https://notabug.org/sepbit/sise/raw/master/lib/sise.js"></script>
+    <!-- CDN -->
+    <script src="https://unpkg.com/@sepbit/sise/lib/sise.js"></script>
   </body>
 </html>
 ```

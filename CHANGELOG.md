@@ -2,6 +2,12 @@
 
 See [Keep a Changelog](http://keepachangelog.com/).
 
+## [1.0.3] - 2019-09-26
+
+### Changed 
+
+- Minor improvements 
+
 ## [1.0.2] - 2019-09-24
 
 ### Changed 
