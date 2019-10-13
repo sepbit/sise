@@ -1,9 +1,9 @@
 {
     "name": "@sepbit/sise",
-    "version": "1.0.3",
+    "version": "1.1.0",
     "description": "This is a simple plugin JavaScript plugin, similar to ``AddThis`` and ``ShareThis`` plugins for distributed social networks.",
     "keywords": [
-        "SEPBIT",
+        "Sepbit",
         "Shared",
         "Fediverse",
         "Federation",
@@ -14,10 +14,10 @@
         "Mastodon",
         "Socialhome"
     ],
-    "homepage": "https://notabug.org/sepbit/sise",
+    "homepage": "https://gitlab.com/sepbit/sise",
     "bugs": {
         "email": "contato@sepbit.com",
-        "url": "https://notabug.org/sepbit/sise/issues"
+        "url": "https://gitlab.com/sepbit/sise/issues"
     },
     "license": "GPL-3.0-or-later",
     "author": [
@@ -29,7 +29,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://notabug.org/sepbit/sise.git"
+        "url": "https://gitlab.com/sepbit/sise.git"
     },
     "scripts": {
         "fix-style": "standard --fix 'lib/*.js''",
