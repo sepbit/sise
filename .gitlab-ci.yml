@@ -7,5 +7,5 @@ cache:
 test:
   script:
     - npm install
-    - npm run check-style
     - npm run fix-style
+    - npm run check-style
