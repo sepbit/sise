@@ -29,8 +29,6 @@ Use this example
     <title>Title</title>
   </head>
   <body>
-    <!-- Buttons -->
-    <div id="siseSB"></div>
     <!-- CDN -->
     <script src="https://unpkg.com/@sepbit/sise/lib/sise.js"></script>
   </body>
