@@ -4,16 +4,7 @@ cache:
   paths:
     - node_modules/
 
-pages:
-  stage: deploy
-  artifacts:
-    paths:
-      - public
-  only:
-    - master
-
 test:
-  stage: test
   script:
     - npm install
     - npm run fix-style
