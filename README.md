@@ -30,7 +30,7 @@ Use this example
   </head>
   <body>
     <!-- CDN -->
-    <script src="https://unpkg.com/@sepbit/sise/lib/sise.js"></script>
+    <script src="https://unpkg.com/@sepbit/sise/src/sise.js"></script>
   </body>
 </html>
 ```

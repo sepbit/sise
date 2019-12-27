@@ -1,6 +1,6 @@
 {
     "name": "@sepbit/sise",
-    "version": "1.1.1",
+    "version": "2.0.0",
     "description": "This is a simple plugin JavaScript plugin, similar to ``AddThis`` and ``ShareThis`` plugins for distributed social networks.",
     "keywords": [
         "Sepbit",
@@ -32,8 +32,8 @@
         "url": "https://gitlab.com/sepbit/sise.git"
     },
     "scripts": {
-        "fix-style": "standard --fix 'lib/*.js'",
-        "check-style": "standard 'lib/*.js'"
+        "fix-style": "standard --fix 'src/*.js'",
+        "check-style": "standard 'src/*.js'"
     },
     "devDependencies": {
         "jsdoc": "^3.6",
