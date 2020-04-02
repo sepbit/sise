@@ -6,6 +6,8 @@ This is a simple plugin JavaScript plugin, similar to ``AddThis`` and ``ShareThi
 
 This package is compatible with [StandardJS](https://standardjs.com/) and [LibreJS](https://www.gnu.org/software/librejs).
 
+See [Demo](https://sepbit.gitlab.io/sise)
+
 ![Screenshot](assets/images/screenshot.png)
 
 Support

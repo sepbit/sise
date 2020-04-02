@@ -9,3 +9,13 @@ test:
     - npm install
     - npm run fix-style
     - npm run check-style
+
+pages:
+  stage: deploy
+  script:
+  - echo 'Nothing to do...'
+  artifacts:
+    paths:
+    - public
+  only:
+  - master

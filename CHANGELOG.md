@@ -2,6 +2,10 @@
 
 See [Keep a Changelog](http://keepachangelog.com/).
 
+## [2.0.1] 2020-04-01
+### Changed
+- GitLab pages 
+
 ## [2.0.0] 2019-12-27
 ### Changed
 - Change directory structure
